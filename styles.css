@@ -1,7 +1,6 @@
-body{
-	display:grid;
-	}
+
 .holder{
+	display:grid;
 	grid-template-columns:repeat(100px,100px);
 	grid-template-rows:repeat(100px,100px);
 	background-color:lightblue;
