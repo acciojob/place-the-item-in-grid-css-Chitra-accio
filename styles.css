@@ -1,8 +1,9 @@
-.holder{
-	width:200px;
+body{
 	display:grid;
-	grid-template-columns:repeat(100px,100px);
-	grid-template-rows:repeat(100px,100px);
+	}
+.holder{
+	grid-template-columns:repeat(100,100px);
+	grid-template-rows:repeat(100,100px);
 	background-color:lightblue;
 }
 
