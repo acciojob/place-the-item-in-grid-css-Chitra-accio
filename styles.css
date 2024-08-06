@@ -2,8 +2,8 @@
 .holder{
 	width:200px;
 	display:grid;
-	grid-template-columns:repeat(200px,200px);
-	grid-template-rows:repeat(200px,200px);
+	grid-template-columns:repeat(2,1fr);
+	grid-template-rows:repeat(2,1fr);
 	background-color:lightblue;
 }
 
